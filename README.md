@@ -1,6 +1,7 @@
-# Silly-CIA
-## V School - The Coding Bootcamp Primer Course - Assignment 1
+# V School - The Coding Bootcamp Primer Course 
 
-### Part 1 - Create website using html elements
+##  Assignment 1 - Silly-CIA
 
-### Part 2 - Apply css elements to transform website
+### Part 1 - Create website using HTML elements.
+
+### Part 2 - Apply CSS elements to transform website.
