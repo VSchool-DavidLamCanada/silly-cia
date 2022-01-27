@@ -2,6 +2,6 @@
 
 ##  Assignment 1 - Silly-CIA
 
-### Part 1 - Create website using HTML elements.
+### Part 1 - Created website using HTML elements.
 
-### Part 2 - Apply CSS elements to transform website.
+### Part 2 - Applied CSS elements to transform website.
