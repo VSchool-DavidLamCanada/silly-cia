@@ -1,5 +1,7 @@
 # Assignment - Silly CIA part 1
 
+## Instructions
+
 * Your assignment is to now create an HTML webpage that matches the image given in the directions.
 You will be given all of the text and information needed to make the website, but you will need
 to create the index.html file and put all of the information in the appropriate HTML tags so the
