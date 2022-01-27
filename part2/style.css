@@ -1,0 +1,29 @@
+header {
+    color: darkgreen;
+}
+
+.headings {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+p {
+    line-height: 25px;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+#like {
+    text-transform: uppercase;
+}
+
+img {
+    float: left;
+    padding: 0 20px 20px 0;
+}
