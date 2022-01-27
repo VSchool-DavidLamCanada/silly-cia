@@ -1,11 +1,12 @@
-<!-- Format the content below -->
-<!-- Adapted from The Onion -->
+# HTML Content
+
+========
 
 CIA Realizes It's Been Using Black Highlighters All These Years
 
 Director Demands Investigation 
 
-[ Main image: https://i.kinja-img.com/gawker-media/image/upload/s--RNd7CQyJ--/c_fit,fl_progressive,q_80,w_470/zuzaejhbyctibbyvoz8h.jpg ]
+[Main image: https://i.kinja-img.com/gawker-media/image/upload/s--RNd7CQyJ--/c_fit,fl_progressive,q_80,w_470/zuzaejhbyctibbyvoz8h.jpg]
 
 LANGLEY, VA—A report released Tuesday by the CIA's Office of the Inspector General revealed that the CIA has mistakenly obscured hundreds of thousands of pages of critical intelligence information with black highlighters.
 
@@ -23,7 +24,7 @@ CIA To Shift Focus To Greeting Cards [link to: http://www.theonion.com/articles/
 
 ========
 
-NOTE: 
+## NOTE: 
 
 * Be sure to turn the bulleted historic events into a list. 
 * Bold Porter Goss's name on first reference
