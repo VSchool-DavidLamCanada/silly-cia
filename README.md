@@ -1,8 +1,8 @@
 # V School - The Coding Bootcamp Primer Course 
 
-## Assignment 1 - Silly CIA part 1 - Created website using HTML elements.
+## Assignment 1 - Silly CIA
 
-### Instructions
+### Part 1 - Created website using HTML elements.
 
 * Your assignment is to now create an HTML webpage that matches the image given in the directions.
 You will be given all of the text and information needed to make the website, but you will need
@@ -14,19 +14,14 @@ https://coursework.vschool.io/silly-cia-part-1/
 
 * Create a directory on your computer called silly-cia, create an index.html file inside that directory, and then open it in your code editor (Visual Studio Code) to complete the tasks.
 
-----------------------------------
-----------------------------------
+---
 
-## Assignment 1 - Silly CIA part 2 - Applied CSS elements to transform website.
-
-### Instructions
+### Part 2 - Applied CSS elements to transform website.
 
 The assignment can be found at the following link: https://coursework.vschool.io/silly-cia-part-2/
 
 Use the HTML article from theonion.com that you formatted in Part 1.
 Instructions
-
----
 
 Style the article using the following:
 
@@ -38,10 +33,8 @@ Style the article using the following:
     6. Make the "You might also like" label all uppercase.
     7. Bonus: Make an underline appear when you hover over a link.
     8. Bonus: Make the image 'float' to the left of the body content.
-
----
-
-#### Hints
+    
+##### Hints
 
 Best practice: CSS should be completely separate from the pure HTML. While it is possible to make CSS inline and even in the HEAD of an HTML file, most of the time it is best if all the CSS is in its on file, and then linked to in the HTML file. This allows us to have multiple HTML pages in a website that use the same styles. To link a CSS file to your HTML file, use the following code:
 
