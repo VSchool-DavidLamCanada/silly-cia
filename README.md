@@ -2,7 +2,7 @@
 
 ## Assignment 1 - Silly CIA
 
-### Part 1 - Created website using HTML elements.
+### Part 1 Instructions
 
 * Your assignment is to now create an HTML webpage that matches the image given in the directions.
 You will be given all of the text and information needed to make the website, but you will need
@@ -16,7 +16,7 @@ https://coursework.vschool.io/silly-cia-part-1/
 
 ---
 
-### Part 2 - Applied CSS elements to transform website.
+### Part 2 Instructions
 
 The assignment can be found at the following link: https://coursework.vschool.io/silly-cia-part-2/
 
